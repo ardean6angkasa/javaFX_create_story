@@ -1,5 +1,6 @@
 # javaFX_create_story
 
+I used jdk-16.0.2, javafx-sdk-17.0.9, and scene builder to design the interface.
 
 Preview:
 
